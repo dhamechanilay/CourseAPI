@@ -1,0 +1,10 @@
+springbootstarter/topic/TopicRepository.java
+ springbootstarter.topic.TopicRepository
+springbootstarter/CourseApiApplication.java
+ springbootstarter.CourseApiApplication
+springbootstarter/topic/TopicController.java
+ springbootstarter.topic.TopicController
+springbootstarter/topic/Topic.java
+ springbootstarter.topic.Topic
+springbootstarter/topic/TopicService.java
+ springbootstarter.topic.TopicService
